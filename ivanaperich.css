@@ -1,0 +1,45 @@
+body{
+background-color: pink;
+}
+
+h1{
+color: white;
+text-align: center;
+font-size: 50px;
+}
+h2{
+text-align: center;
+}
+h3{
+color: black;
+text-align: center;
+}
+
+p{
+font-family: Latin Modern Roman;
+font-size: 15px;
+text-align: center;
+}
+
+table, th, td {
+  margin: auto;
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+video{
+display:block;
+margin:auto;
+}
+
+a{
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
+
+img{
+display:block;
+margin:auto;
+}
